@@ -3,3 +3,5 @@ if [[ "$EDITOR" == "" ]] ; then
   # Use sublime for my editor.
   export EDITOR='subl'
 fi
+
+export LC_CTYPE="en_US.UTF-8"
